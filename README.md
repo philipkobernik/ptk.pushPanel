@@ -13,7 +13,7 @@ dependencies:
 
 - git clone or download/unzip the folder and place it in `~/Documents/Max 7/Packages/`
   * `cd ~/Documents/Max\ 7/Packages`
-  * `git clone https://github.com/philipkobernik/cyclone-granny.git`
+  * `git clone https://github.com/philipkobernik/ptk.pushPanel.git`
 - open in max: `patchers/pushPanel demo.maxpat`
 - by placing this repo in your Packages folder, it is added to your search path, so it will be easy to use ptk.pushPanel in your own projects!
 
